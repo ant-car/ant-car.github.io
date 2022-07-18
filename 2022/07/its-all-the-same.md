@@ -7,7 +7,7 @@ What do:
 - Anko
 all have in common?
 
-They're made by the same whitebox manufacturer, Tuya!  Anko even advertises this on their packaging.
+They're made by the same whitelabel manufacturer, Tuya!  Anko even advertises this on their packaging.
 
 ### Why should I care?
 
